@@ -6,5 +6,8 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Perfil escolar.
-![](https://media1.tenor.com/m/3EQTI8e1gsgAAAAd/spike-andrea-drews.gif)
-I love sportes!!!!!
+
+![](https://media.tenor.com/jKSmROV4EN4AAAAM/spiking-the-ball-t%C4%ABna-graudi%C5%86a.gif)
+
+
+I love volleyball!!!!!
